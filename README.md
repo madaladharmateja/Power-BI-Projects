@@ -9,14 +9,14 @@ The main objective of this dashboard is to track and analyze Meesho's sales perf
 
 **Dataset Reference:** ECOMM DATA.xlsx
 
-**Observations / Insights: **
+**Observations / Insights:**
 
-"*"Sales by Category: Furniture and Technology appear to be the top-selling categories, contributing significantly to Meesho's overall sales.
+* Sales by Category: Furniture and Technology appear to be the top-selling categories, contributing significantly to Meesho's overall sales.
 
-"*"Sales by Market: Africa, APAC, and EMEA seem to be the primary markets for Meesho, with Africa leading the way in terms of sales.
+* Sales by Market: Africa, APAC, and EMEA seem to be the primary markets for Meesho, with Africa leading the way in terms of sales.
 
-"*"Sales by Country: South Africa, Democratic Republic of Congo, and Morocco emerge as the top countries driving sales within the Africa market.
+* Sales by Country: South Africa, Democratic Republic of Congo, and Morocco emerge as the top countries driving sales within the Africa market.
 
-"*"Sales by Ship Mode: Standard shipping appears to be the preferred mode, followed by Second Class and First Class.
+* Sales by Ship Mode: Standard shipping appears to be the preferred mode, followed by Second Class and First Class.
 
-"*"Sales by Sub-Category: Phones, Copiers, Bookcases, Machines, Chairs, and Accessories seem to be the top-selling subcategories within their respective categories.
+* Sales by Sub-Category: Phones, Copiers, Bookcases, Machines, Chairs, and Accessories seem to be the top-selling subcategories within their respective categories.
